@@ -1,0 +1,487 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563]
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw1
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:There is no [win32] chromedriver for browser 111.0.5563 in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:There is no [win32] chromedriver for browser 111.0.5563 in cache
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563]
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563]
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw0
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw0
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw1
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:xdist worker is: gw0
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw1
+INFO:WDM:xdist worker is: gw0
+er ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:xdist worker is: gw1
+INFO:WDM:xdist worker is: gw0
+er ======
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw1\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Test_001_Login ********
+INFO:root:********** Verifying Home Page Title ********
+INFO:root:********** Home Page title is PASSED ********
+ERROR:root:********** Login test FAILED ********
+INFO:WDM:xdist worker is: gw0
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:**********Test_002_DDT_Login*********
+INFO:root:********** Verifying Login test ********
+INFO:root:***Test Passed***
+INFO:root:Login DDT Passed.....
+INFO:WDM:xdist worker is: gw0
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\gw0\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:**********Test_002_DDT_Login*********
+INFO:root:********** Verifying Login test ********
+INFO:root:***Test Passed***
+INFO:root:***Test Passed***
+INFO:root:***Test Passed***
+INFO:root:***Test Passed***
+INFO:root:Login DDT Passed.....
+INFO:root:End of DDT for Login
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563]
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563]
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/111.0.5563.64/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563]
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+ERROR:root:********** Login test FAILED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Test_003_AddCustomer **********
+INFO:root:********** Login succesful *********
+INFO:root:********** Starting Add Customer Test **********
+INFO:root:********** Providing customer information **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** Verifying Login test ********
+INFO:root:********** Login test PASSED ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Email *********
+INFO:root:********** searching customer by emailID **********
+INFO:root:********** TC_SearchCustomerByEmail_004 Finished **********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome 111.0.5563
+INFO:WDM:Driver [C:\Users\JannGeo\.wdm\drivers\chromedriver\win32\111.0.5563\chromedriver.exe] found in cache
+INFO:root:********** SearchCustomerByEmaik **********
+INFO:root:********* Login successful **********
+INFO:root:********** Starting Search Customer By Name *********
+INFO:root:********** searching customer by Name **********
+INFO:root:********** TC_SearchCustomerByName_005 Finished **********
